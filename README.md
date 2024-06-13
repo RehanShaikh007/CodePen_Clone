@@ -27,7 +27,7 @@ Welcome to the CodePen Clone project! This application is a web-based code edito
 - **Save Projects:** Save your projects and access them anytime from your dashboard.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed. [GitHub repository](https://github.com/RehanShaikh007/CodePen_Clone)).
+Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed. [GitHub repository](https://github.com/RehanShaikh007/CodePen_Clone).
 ## [Watch Live](https://code-pen-clone-eta.vercel.app)
 
 
